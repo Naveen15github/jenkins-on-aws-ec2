@@ -1,4 +1,4 @@
-# Jenkins on AWS ec2
+# Jenkins on AWS EC2
 
 This guide provides step-by-step instructions for deploying Jenkins on an AWS EC2 instance. Jenkins is an open-source automation server used for CI/CD pipelines.
 
