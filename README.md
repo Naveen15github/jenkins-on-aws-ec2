@@ -29,13 +29,14 @@ This guide provides step-by-step instructions for deploying Jenkins on an AWS EC
 
 ## 🖼️ EC2 Instance Launch Screenshot
 
-![EC2 Instance Screenshot](images/ec2-instance.png)
+![EC2 Instance Screenshot](https://github.com/Naveen15github/jenkins-on-aws-ec2/blob/f0586f43bec60bedc0266a8aadea74f8556f9e9d/Screenshot%20(21).png)
 
 ## 🔒 Add Port 8080 to Security Group
 
 To access Jenkins, you need to allow inbound traffic on port 8080 in your EC2 Security Group.
 
-![Add Port 8080 to Security Group Screenshot](images/ec2-security-group-8080.png)
+![Add Port 8080 to Security Group Screenshot](https://github.com/Naveen15github/jenkins-on-aws-ec2/blob/f0586f43bec60bedc0266a8aadea74f8556f9e9d/Screenshot%20(22).png
+)
 
 ### 2️⃣ Connect to Your EC2 Instance
 
@@ -86,7 +87,7 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
 ## 📸 Jenkins Setup Screenshot
 
-![Jenkins Setup Screenshot](images/jenkins-setup.png)
+![Jenkins Setup Screenshot](https://github.com/Naveen15github/jenkins-on-aws-ec2/blob/f0586f43bec60bedc0266a8aadea74f8556f9e9d/Screenshot%20(18).png)(https://github.com/Naveen15github/jenkins-on-aws-ec2/blob/f0586f43bec60bedc0266a8aadea74f8556f9e9d/Screenshot%20(20).png)
 
 ### 5️⃣ Initial Jenkins Setup
 
