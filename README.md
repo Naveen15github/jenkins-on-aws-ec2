@@ -27,6 +27,16 @@ This guide provides step-by-step instructions for deploying Jenkins on an AWS EC
 9. 🗝️ Select or create a key pair.
 10. 🚀 Launch your instance.
 
+## 🖼️ EC2 Instance Launch Screenshot
+
+![EC2 Instance Screenshot](images/ec2-instance.png)
+
+## 🔒 Add Port 8080 to Security Group
+
+To access Jenkins, you need to allow inbound traffic on port 8080 in your EC2 Security Group.
+
+![Add Port 8080 to Security Group Screenshot](images/ec2-security-group-8080.png)
+
 ### 2️⃣ Connect to Your EC2 Instance
 
 Use your SSH key to connect:
@@ -73,6 +83,10 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 ```
 
 3. ✨ Enter the password in the Jenkins setup page.
+
+## 📸 Jenkins Setup Screenshot
+
+![Jenkins Setup Screenshot](images/jenkins-setup.png)
 
 ### 5️⃣ Initial Jenkins Setup
 
