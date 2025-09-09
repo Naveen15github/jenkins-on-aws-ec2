@@ -86,7 +86,7 @@ sudo cat /var/lib/jenkins/secrets/initialAdminPassword
 
 ## 📸 Jenkins Setup Screenshot
 
-![Jenkins Setup Screenshot]((https://github.com/Naveen15github/jenkins-on-aws-ec2/blob/f0586f43bec60bedc0266a8aadea74f8556f9e9d/Screenshot%20(18).png)(https://github.com/Naveen15github/jenkins-on-aws-ec2/blob/f0586f43bec60bedc0266a8aadea74f8556f9e9d/Screenshot%20(20).png))
+![Jenkins Setup Screenshot](https://github.com/Naveen15github/jenkins-on-aws-ec2/blob/f0586f43bec60bedc0266a8aadea74f8556f9e9d/Screenshot%20(18).png)              ![](https://github.com/Naveen15github/jenkins-on-aws-ec2/blob/f0586f43bec60bedc0266a8aadea74f8556f9e9d/Screenshot%20(20).png)
 
 ### 5️⃣ Initial Jenkins Setup
 
